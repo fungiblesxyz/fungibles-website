@@ -28,6 +28,20 @@ const template = () => html`
     </p>
     <div class="links">
       <a
+        href="https://generate.fungibles.xyz/"
+        class="link"
+        target="_blank"
+        rel="noopener"
+        >Generator</a
+      >
+      <a
+        href="https://t.me/fungibles_community"
+        class="link"
+        target="_blank"
+        rel="noopener"
+        >Telegram</a
+      >
+      <a
         href="https://github.com/fungiblesxyz"
         class="link"
         target="_blank"
