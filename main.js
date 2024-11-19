@@ -35,7 +35,7 @@ const template = () => html`
         >Generator</a
       >
       <a
-        href="https://t.me/fungibles_community"
+        href="https://t.me/fungibles_ERC20i"
         class="link"
         target="_blank"
         rel="noopener"
