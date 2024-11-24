@@ -26,36 +26,58 @@ const template = () => html`
         >@base</a
       >
     </p>
-    <div class="links">
+    <div class="main-links">
       <a
         href="https://generate.fungibles.xyz/"
-        class="link"
+        class="action-link"
         target="_blank"
         rel="noopener"
-        >Generator</a
       >
+        <img src="/icons/flash.svg" alt="" class="icon" />
+        Generator
+      </a>
       <a
-        href="https://t.me/fungibles_ERC20i"
-        class="link"
+        href="https://t.me/FungiblesBot"
+        class="action-link"
         target="_blank"
         rel="noopener"
-        >Telegram</a
       >
-      <a
-        href="https://github.com/fungiblesxyz"
-        class="link"
-        target="_blank"
-        rel="noopener"
-        >GitHub</a
-      >
-      <a
-        href="https://x.com/fungiblesxyz"
-        class="link"
-        target="_blank"
-        rel="noopener"
-        >X.com</a
-      >
+        <img src="/icons/bot.svg" alt="" class="icon" />
+        Telegram Bot
+      </a>
     </div>
+    <footer class="footer">
+      <div class="social-links">
+        <a
+          href="https://t.me/fungibles_ERC20i"
+          class="social-link"
+          target="_blank"
+          rel="noopener"
+          >Telegram</a
+        >
+        <a
+          href="https://github.com/fungiblesxyz"
+          class="social-link"
+          target="_blank"
+          rel="noopener"
+          >GitHub</a
+        >
+        <a
+          href="https://x.com/fungiblesxyz"
+          class="social-link"
+          target="_blank"
+          rel="noopener"
+          >X.com</a
+        >
+        <a
+          href="https://donate.fungibles.xyz"
+          class="social-link"
+          target="_blank"
+          rel="noopener"
+          >Support Us</a
+        >
+      </div>
+    </footer>
   </div>
 `;
 
