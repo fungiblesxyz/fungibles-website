@@ -70,7 +70,7 @@ const template = () => html`
           >X.com</a
         >
         <a
-          href="https://donate.fungibles.xyz"
+          href="https://app.safe.global/balances?safe=base:0x45083345B7E20d9916dDa046344Ec518bf9e21D0"
           class="social-link"
           target="_blank"
           rel="noopener"
