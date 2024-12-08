@@ -226,7 +226,7 @@ body {
 }
 
 .back-link:hover {
-  color: var(--accent-color);
+  color: var(--hover-color);
 }
 
 .faq-list {
