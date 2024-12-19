@@ -83,6 +83,24 @@ const homePage = () => html`
         <img src="/icons/bot.svg" alt="" class="icon" />
         Telegram Bot
       </a>
+      <a
+        href="https://github.com/fungiblesxyz/fungibles-agents/tree/main/0x20i"
+        class="action-link"
+        target="_blank"
+        rel="noopener"
+      >
+        <img src="/icons/0x20i.png" alt="" class="icon" />
+        0x20i GitHub
+      </a>
+      <a
+        href="https://x.com/0x20i"
+        class="action-link"
+        target="_blank"
+        rel="noopener"
+      >
+        <img src="/icons/0x20i.png" alt="" class="icon" />
+        0x20i X.com
+      </a>
       <a href="#faq" class="action-link">
         <img src="/icons/question.svg" alt="" class="icon" />
         FAQ
