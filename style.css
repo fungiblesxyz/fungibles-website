@@ -31,6 +31,7 @@ body {
 .logo {
   width: 200px;
   height: 200px;
+  padding-top: 3rem;
   margin-bottom: 1.5rem;
   animation: float 6s ease-in-out infinite;
   border-radius: 50%;
